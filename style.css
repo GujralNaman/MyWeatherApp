@@ -5,6 +5,7 @@
 
 body{
     background: url(./img/3.jpg);
+    background-repeat: no-repeat;
 }
 
 .header{
@@ -34,6 +35,6 @@ h2 span h1{
 
 @media screen and (max-width: 480px) {
   .profile-btn{
-    margin: 70px;
+    margin-left: 70px;
   }
 }
