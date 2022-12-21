@@ -31,3 +31,9 @@ h2 span h1{
     background-color: yellowgreen;
     cursor: pointer;
 }
+
+@media screen and (max-width: 480px) {
+  .profile-btn{
+    margin: 70px;
+  }
+}
