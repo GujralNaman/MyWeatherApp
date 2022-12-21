@@ -14,3 +14,20 @@ body{
 h2{
     color: #fff;
 }
+
+h2 span h1{
+    color: yellowgreen;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.profile-btn{
+    background-color: grey;
+    margin-left: 30vw;
+    font-size: 20px;
+}
+
+.profile-btn:hover{
+    background-color: yellowgreen;
+    cursor: pointer;
+}
